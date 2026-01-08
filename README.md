@@ -84,11 +84,3 @@ This executes the notebook end-to-end and regenerates plots.
 ## Notes on FLOP counting
 
 FLOPs are estimated during training using PyTorch’s `FlopCounterMode` (forward + backward), to relate model quality to compute.
-
-## License
-
-This repo is intended as an educational project. See `LICENSE` for details.
-
-## Citation
-
-If you reference this work, please cite the report or link to this repository.
